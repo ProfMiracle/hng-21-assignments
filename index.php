@@ -96,7 +96,17 @@
 </nav>
 <div class="vlt-offcanvas-menu__footer">
 
-<div class="vlt-offcanvas-menu__socials"><a class="vlt-social-icon vlt-social-icon--style-1" href="#"><i class="lnir-facebook-filled"></i></a><a class="vlt-social-icon vlt-social-icon--style-1" href="#"><i class="lnir-twitter-original"></i></a><a class="vlt-social-icon vlt-social-icon--style-1" href="#"><i class="lnir-instagram"></i></a></div>
+<div class="vlt-offcanvas-menu__socials">
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://facebook.com/chibuzo.miracle.9">
+        <i class="lnir-facebook-filled"></i>
+    </a>
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://twitter.com/ChibuzoEbubechi">
+        <i class="lnir-twitter-original"></i>
+    </a>
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.instagram.com/ChibuzoEbubechi/#">
+        <i class="lnir-instagram"></i>
+    </a>
+</div>
 
 <div class="vlt-offcanvas-menu__copyright">
 <p>© 2020 Copyright.<br>All rights reserved.</p>
@@ -106,7 +116,17 @@
 
 <div class="vlt-site-overlay"></div>
 
-<div class="vlt-fixed-socials"><a class="vlt-social-icon vlt-social-icon--style-1" href="#"><i class="lnir-facebook-filled"></i></a><a class="vlt-social-icon vlt-social-icon--style-1" href="#"><i class="lnir-twitter-original"></i></a><a class="vlt-social-icon vlt-social-icon--style-1" href="#"><i class="lnir-instagram"></i></a></div>
+<div class="vlt-fixed-socials">
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://facebook.com/chibuzo.miracle.9">
+        <i class="lnir-facebook-filled"></i>
+    </a>
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://twitter.com/ChibuzoEbubechi">
+        <i class="lnir-twitter-original"></i>
+    </a>
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.instagram.com/ChibuzoEbubechi/#">
+        <i class="lnir-instagram"></i>
+    </a>
+</div>
 
 <main class="vlt-main">
 
@@ -129,7 +149,8 @@
 </div>
 <div class="vlt-gap-100"></div>
 
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.1s; animation-duration:700ms;"><span class="vlt-display-1 has-white-color">Backend Developer</span>
+<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.1s; animation-duration:700ms;">
+    <span class="vlt-display-1 has-white-color">Backend Developer</span>
 </div>
 <div class="vlt-gap-15"></div>
 
@@ -139,7 +160,7 @@
 <div class="vlt-gap-15"></div>
 
 <div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.3s; animation-duration:700ms;">
-<p>Working with client and community, we deliver masterplans that create vibrant new places and spaces, attract people, and encourage.</p>
+<p>Working with client and community, we provide software solutions. We solve real live problems with code.</p>
 </div>
 </div>
 </div>
@@ -236,19 +257,19 @@
 <div class="swiper-slide">
 
 <article class="vlt-project">
-<h3 class="vlt-project-title">Watch<span class="has-accent-color">.</span></h3>
+<h3 class="vlt-project-title">GitHub<span class="has-accent-color">.</span></h3>
 <div class="vlt-project-excerpt">
-<p>Bring saw gathering kind evening them air him void morning dominion spirit multiply seas shall day were likeness. Upon tree a gathering.</p>
+<p>Web development is an art, you learn, master and remaster. We believe in open source</p>
 </div>
-<a class="vlt-btn vlt-btn--primary vlt-btn--md" href="single-product.html" target="_self">See Project</a>
+<a class="vlt-btn vlt-btn--primary vlt-btn--md" href="https://github.com/ProfMiracle" target="_self">See Project</a>
 </article>
 </div>
-<div class="swiper-slide">
+<!--<div class="swiper-slide">
 
 <article class="vlt-project">
 <h3 class="vlt-project-title">The Bottle<span class="has-accent-color">.</span></h3>
 <div class="vlt-project-excerpt">
-<p>Working with client and community, we deliver masterplans that create vibrant new places and spaces, attract people, and encourage investment through.</p>
+<p>Working with client and community, we provide software solutions. We solve real live problems with code.</p>
 </div>
 <a class="vlt-btn vlt-btn--primary vlt-btn--md" href="single-product.html" target="_self">See Project</a>
 </article>
@@ -262,7 +283,7 @@
 </div>
 <a class="vlt-btn vlt-btn--primary vlt-btn--md" href="single-product.html" target="_self">See Project</a>
 </article>
-</div>
+</div>-->
 </div>
 </div>
 </div>
@@ -290,7 +311,7 @@
 <div class="d-block d-md-flex align-items-center justify-content-between">
 <h3>Education</h3>
 <div class="vlt-gap-30--sm"></div>
-<a class="vlt-btn vlt-btn--primary vlt-btn--md" href="#" target="_self">Download Resume</a>
+<a class="vlt-btn vlt-btn--primary vlt-btn--md" href="https://drive.google.com/file/d/1Q9oeTklYnc3Qnb2z3DfSJNmXXiJ1W1OK/view?usp=sharing" target="_self">Download Resume</a>
 </div>
 </div>
 <div class="vlt-gap-50"></div>
@@ -341,88 +362,7 @@
 </div>
 </div>
 </div>
-<div class="swiper-slide">
 
-<div class="vlt-timeline-item">
-<div class="row">
-<div class="col-xl-4"><img src="assets/img/root/behance.png" alt="Behance" loading="lazy">
-</div>
-<div class="col-xl-4"><span class="vlt-timeline-item__date">2019 - 2020</span>
-<h5 class="vlt-timeline-item__title">Behance</h5>
-</div>
-<div class="col-xl-4">
-<p class="vlt-timeline-item__text">Which firmament dominion first rule and tree. The seas he i were cattle Under living. It may beast every forth place.</p>
-</div>
-</div>
-</div>
-
-<div class="vlt-timeline-item">
-<div class="row">
-<div class="col-xl-4"><img src="assets/img/root/envato.png" alt="Envato" loading="lazy">
-</div>
-<div class="col-xl-4"><span class="vlt-timeline-item__date">2017 - 2018</span>
-<h5 class="vlt-timeline-item__title">Envato</h5>
-</div>
-<div class="col-xl-4">
-<p class="vlt-timeline-item__text">Rule bearing whales. Created gathering blessed, sixth likeness male. Over were which you'll so be make moveth made saw above.</p>
-</div>
-</div>
-</div>
-
-<div class="vlt-timeline-item">
-<div class="row">
-<div class="col-xl-4"><img src="assets/img/root/twitter.png" alt="Twitter" loading="lazy">
-</div>
-<div class="col-xl-4"><span class="vlt-timeline-item__date">2015 - 2018</span>
-<h5 class="vlt-timeline-item__title">Twitter</h5>
-</div>
-<div class="col-xl-4">
-<p class="vlt-timeline-item__text">Firmament itself rule their evening, which moved very night so great them cattle bearing and gathered forth had whose bearing.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-
-<div class="vlt-timeline-item">
-<div class="row">
-<div class="col-xl-4"><img src="assets/img/root/behance.png" alt="Behance" loading="lazy">
-</div>
-<div class="col-xl-4"><span class="vlt-timeline-item__date">2019 - 2020</span>
-<h5 class="vlt-timeline-item__title">Behance</h5>
-</div>
-<div class="col-xl-4">
-<p class="vlt-timeline-item__text">Which firmament dominion first rule and tree. The seas he i were cattle Under living. It may beast every forth place.</p>
-</div>
-</div>
-</div>
-
- <div class="vlt-timeline-item">
-<div class="row">
-<div class="col-xl-4"><img src="assets/img/root/envato.png" alt="Envato" loading="lazy">
-</div>
-<div class="col-xl-4"><span class="vlt-timeline-item__date">2017 - 2018</span>
-<h5 class="vlt-timeline-item__title">Envato</h5>
-</div>
-<div class="col-xl-4">
-<p class="vlt-timeline-item__text">Rule bearing whales. Created gathering blessed, sixth likeness male. Over were which you'll so be make moveth made saw above.</p>
-</div>
-</div>
-</div>
-
-<div class="vlt-timeline-item">
-<div class="row">
-<div class="col-xl-4"><img src="assets/img/root/twitter.png" alt="Twitter" loading="lazy">
-</div>
-<div class="col-xl-4"><span class="vlt-timeline-item__date">2015 - 2018</span>
-<h5 class="vlt-timeline-item__title">Twitter</h5>
-</div>
-<div class="col-xl-4">
-<p class="vlt-timeline-item__text">Firmament itself rule their evening, which moved very night so great them cattle bearing and gathered forth had whose bearing.</p>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
