@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>eMiracle - Homepage</title>
-<meta name="description" content="Personal CV/Resume HTML5 Template">
+<meta name="description" content="Personal CV/Resume of Chibuzo Miracle">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -29,7 +29,7 @@
 <div class="vlt-navbar-background"></div>
 <div class="vlt-navbar-inner">
 <div class="vlt-navbar-inner--left">
-<a class="vlt-navbar-logo" href="index.php"><img src="#" alt="eMiracle"></a>
+<a class="vlt-navbar-logo" href="/"><img src="#" alt="eMiracle"></a>
 </div>
 <div class="vlt-navbar-inner--center">
 <div class="container">
@@ -45,10 +45,6 @@
 <li data-menuanchor="Education"><a href="#Education">Education</a>
 </li>
 <li data-menuanchor="Testimonials"><a href="#Testimonials">Testimonials</a>
-</li>
-<li data-menuanchor="Partners"><a href="#Partners">Partners</a>
-</li>
-<li data-menuanchor="Blog"><a href="#Blog">Blog</a>
 </li>
 <li data-menuanchor="Contact"><a href="#Contact">Contact</a>
 </li>
@@ -86,10 +82,7 @@
 </li>
 <li data-menuanchor="Testimonials"><a href="#Testimonials">Testimonials</a>
 </li>
-<li data-menuanchor="Partners"><a href="#Partners">Partners</a>
-</li>
-<li data-menuanchor="Blog"><a href="#Blog">Blog</a>
-</li>
+
 <li data-menuanchor="Contact"><a href="#Contact">Contact</a>
 </li>
 </ul>
@@ -103,7 +96,7 @@
     <a class="vlt-social-icon vlt-social-icon--style-1" href="https://twitter.com/ChibuzoEbubechi">
         <i class="lnir-twitter-original"></i>
     </a>
-    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.instagram.com/ChibuzoEbubechi/#">
+    <a class="vlt-social-icon vlt-social-icon--style-1" href="https://www.instagram.com/ChibuzoEbubechi">
         <i class="lnir-instagram"></i>
     </a>
 </div>
@@ -261,7 +254,7 @@
 <div class="vlt-project-excerpt">
 <p>Web development is an art, you learn, master and remaster. We believe in open source</p>
 </div>
-<a class="vlt-btn vlt-btn--primary vlt-btn--md" href="https://github.com/ProfMiracle" target="_self">See Project</a>
+<a class="vlt-btn vlt-btn--primary vlt-btn--md" href="https://github.com/ProfMiracle" target="_self">See Projects</a>
 </article>
 </div>
 <!--<div class="swiper-slide">
@@ -321,7 +314,7 @@
 <div class="vlt-content-slider " data-navigation-anchor=".vlt-education-anchor" data-effect="" data-gap="120" data-loop="" data-speed="" data-autoplay="" data-autoplay-speed="" data-slides-centered="" data-slide-settings="{}" data-free-mode="" data-slider-offset="" data-mousewheel="">
 <div class="swiper-container">
 <div class="swiper-wrapper">
-<div class="swiper-slide">
+<!--<div class="swiper-slide">
 
 <div class="vlt-timeline-item">
 <div class="row">
@@ -361,7 +354,7 @@
 </div>
 </div>
 </div>
-</div>
+</div>-->
 
 </div>
 </div>
@@ -390,9 +383,10 @@
 <div class="col-xl-6">
 
 <div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:0s; animation-duration:700ms;">
-<div class="has-accent-color"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 75 75" style="height: 75px;"><defs /><path fill="currentColor" d="M25 0C16.9271 0 10.7422 2.14844 6.44531 6.44531 2.14844 10.7422 0 16.9271 0 25v50h31.25V25H12.5c0-4.4271.9766-7.6172 2.9297-9.5703C17.3828 13.4766 20.5729 12.5 25 12.5V0zm43.75 0c-8.0729 0-14.2578 2.14844-18.5547 6.44531C45.8984 10.7422 43.75 16.9271 43.75 25v50H75V25H56.25c0-4.4271.9766-7.6172 2.9297-9.5703C61.1328 13.4766 64.3229 12.5 68.75 12.5V0z" /></svg>
+<div class="has-accent-color">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 75 75" style="height: 75px;"><defs /><path fill="currentColor" d="M25 0C16.9271 0 10.7422 2.14844 6.44531 6.44531 2.14844 10.7422 0 16.9271 0 25v50h31.25V25H12.5c0-4.4271.9766-7.6172 2.9297-9.5703C17.3828 13.4766 20.5729 12.5 25 12.5V0zm43.75 0c-8.0729 0-14.2578 2.14844-18.5547 6.44531C45.8984 10.7422 43.75 16.9271 43.75 25v50H75V25H56.25c0-4.4271.9766-7.6172 2.9297-9.5703C61.1328 13.4766 64.3229 12.5 68.75 12.5V0z" /></svg>
 <div class="vlt-gap-215 vlt-gap-100--lg"></div>
-<h3>Creative & dedicated is things that gilber studio brings for your business.</h3>
+<h3>Reviews are good pointers you know :).</h3>
 </div>
 </div>
 </div>
@@ -408,13 +402,14 @@
 
 <div class="vlt-testimonial">
 <div class="vlt-testimonial__text">
-<p>&quot;Said heaven dry made Them gathering the very second morning us be divide isn't. Saw Seasons winged replenish grass from set can't for he which. You third god unto let.&quot;
+<p>&quot;He is a passionate website developer and has a good knowledge of some backend technologies. He is the Lead developer
+    at LUXPENT. A prominent brand in tertiary institutions.&quot;
 </p>
 </div>
 <div class="vlt-testimonial__meta">
-<h5 class="vlt-testimonial__name">Dwight Schrute
+<h5 class="vlt-testimonial__name">Cletus Munachi
 </h5>
-<div class="vlt-testimonial__function">The Office
+<div class="vlt-testimonial__function">CEO LUXPENT
 </div>
 </div>
 </div>
@@ -423,32 +418,18 @@
 
 <div class="vlt-testimonial">
 <div class="vlt-testimonial__text">
-<p>&quot;Said heaven dry made Them gathering the very second morning us be divide isn't. Saw Seasons winged replenish grass from set can't for he which. You third god unto let.&quot;
+<p>&quot;He is a good boy, employ him.&quot;
 </p>
 </div>
 <div class="vlt-testimonial__meta">
-<h5 class="vlt-testimonial__name">Paul &amp; Amanda
+<h5 class="vlt-testimonial__name">Marvelous Frank-Solomon
 </h5>
-<div class="vlt-testimonial__function">Envato Studio
+<div class="vlt-testimonial__function">Senior Data Analyst/Developer
 </div>
 </div>
 </div>
 </div>
-<div class="swiper-slide">
 
-<div class="vlt-testimonial">
-<div class="vlt-testimonial__text">
-<p>&quot;Said heaven dry made Them gathering the very second morning us be divide isn't. Saw Seasons winged replenish grass from set can't for he which. You third god unto let.&quot;
-</p>
-</div>
-<div class="vlt-testimonial__meta">
-<h5 class="vlt-testimonial__name">Ramsay Bolton
-</h5>
-<div class="vlt-testimonial__function">Apple Inc
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -467,114 +448,7 @@
 </div>
 
 
-<div class="vlt-section pp-scrollable" data-anchor="Partners">
-<div class="vlt-section__vertical-align">
-<div class="vlt-section__content">
-<div class="container">
 
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:0s; animation-duration:700ms;">
-<h3>Partners</h3>
-</div>
-<div class="vlt-gap-100"></div>
-
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.1s; animation-duration:700ms;">
-<ul class="vlt-partners">
-<li><img src="assets/img/root/logo-01.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-02.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-03.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-04.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-05.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-06.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-07.png" alt="" loading="lazy"></li>
-<li><img src="assets/img/root/logo-08.png" alt="" loading="lazy"></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="vlt-section pp-scrollable" data-anchor="Blog">
-<div class="vlt-section__vertical-align">
-<div class="vlt-section__content">
-<div class="container">
-
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:0s; animation-duration:700ms;">
-<h3>Recent news</h3>
-</div>
-<div class="vlt-gap-100"></div>
-<div class="row">
-<div class="col-xl-4">
-
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.1s; animation-duration:700ms;">
-
-<article class="vlt-post vlt-post--masonry">
-<div class="vlt-post-border"><span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></div>
-<div class="vlt-post-media"><img src="assets/img/blog-01.jpg" alt="" loading="lazy"></div>
-<div class="vlt-post-content">
-<header class="vlt-post-header"><span class="vlt-post-date">December 27, 2020</span>
-<h3 class="vlt-post-title"><a href="single-post.html">Scent in the Voyages</a></h3>
-</header>
-<div class="vlt-post-excerpt">
-<p>Let years seasons given two fowl above is itself shall third night female seasons you’re whales, unto had fowl Herb. Moving so. Said be fruitful first lights creeping deep void, lesser.
-</p>
-</div>
-<footer class="vlt-post-footer"><a class="vlt-read-more-link" href="single-post.html">
-Read more<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8"><defs /><path d="M15.3536 4.35355c.1952-.19526.1952-.51184 0-.7071L12.1716.464466c-.1953-.195262-.5119-.195262-.7071 0-.1953.195262-.1953.511845 0 .707104L14.2929 4l-2.8284 2.82843c-.1953.19526-.1953.51184 0 .7071.1952.19527.5118.19527.7071 0l3.182-3.18198zM0 4.5h15v-1H0v1z" fill="currentColor" /></svg></a></footer>
-</div>
-</article>
-</div>
-</div>
-<div class="col-xl-4">
-<div class="vlt-gap-30--lg"></div>
-
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.2s; animation-duration:700ms;">
-
-<article class="vlt-post vlt-post--masonry">
-<div class="vlt-post-border"><span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></div>
-<div class="vlt-post-media"><img src="assets/img/blog-02.jpg" alt="" loading="lazy"></div>
-<div class="vlt-post-content">
-<header class="vlt-post-header"><span class="vlt-post-date">December 27, 2020</span>
-<h3 class="vlt-post-title"><a href="single-post.html">The Stone of the Flames</a></h3>
-</header>
-<div class="vlt-post-excerpt">
-<p>Let years seasons given two fowl above is itself shall third night female seasons you’re whales, unto had fowl Herb. Moving so. Said be fruitful first lights creeping deep void, lesser.
-</p>
-</div>
-<footer class="vlt-post-footer"><a class="vlt-read-more-link" href="single-post.html">
-Read more<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8"><defs /><path d="M15.3536 4.35355c.1952-.19526.1952-.51184 0-.7071L12.1716.464466c-.1953-.195262-.5119-.195262-.7071 0-.1953.195262-.1953.511845 0 .707104L14.2929 4l-2.8284 2.82843c-.1953.19526-.1953.51184 0 .7071.1952.19527.5118.19527.7071 0l3.182-3.18198zM0 4.5h15v-1H0v1z" fill="currentColor" /></svg></a></footer>
-</div>
-</article>
-</div>
-</div>
-<div class="col-xl-4">
-<div class="vlt-gap-30--lg"></div>
-
-<div class="vlt-animated-block" data-animation-name="fadeInUpSm" style="animation-delay:.3s; animation-duration:700ms;">
-
-<article class="vlt-post vlt-post--masonry">
-<div class="vlt-post-border"><span class="top"></span><span class="right"></span><span class="bottom"></span><span class="left"></span></div>
-<div class="vlt-post-media"><img src="assets/img/blog-03.jpg" alt="" loading="lazy"></div>
-<div class="vlt-post-content">
-<header class="vlt-post-header"><span class="vlt-post-date">December 27, 2020</span>
-<h3 class="vlt-post-title"><a href="single-post.html">Secrets of the Serpents</a></h3>
-</header>
-<div class="vlt-post-excerpt">
-<p>Let years seasons given two fowl above is itself shall third night female seasons you’re whales, unto had fowl Herb. Moving so. Said be fruitful first lights creeping deep void, lesser.
-</p>
-</div>
-<footer class="vlt-post-footer"><a class="vlt-read-more-link" href="single-post.html">
-Read more<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8"><defs /><path d="M15.3536 4.35355c.1952-.19526.1952-.51184 0-.7071L12.1716.464466c-.1953-.195262-.5119-.195262-.7071 0-.1953.195262-.1953.511845 0 .707104L14.2929 4l-2.8284 2.82843c-.1953.19526-.1953.51184 0 .7071.1952.19527.5118.19527.7071 0l3.182-3.18198zM0 4.5h15v-1H0v1z" fill="currentColor" /></svg></a></footer>
-</div>
-</article>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 
 
 <div class="vlt-section pp-scrollable" data-anchor="Contact">
@@ -593,7 +467,7 @@ Read more<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8">
 <div class="vlt-gap-40"></div>
 <address>No. 3 Green Villa Avenue, Ugiri Mbano, Imo Nigeria</address>
 <p><a class="tel" href="tel:+2348108506562">+234 8108506562</a></p>
-<p><a class="email" href="http://paul-themes.com/cdn-cgi/l/email-protection#096e60656b6c7b276d6c7a606e67496e64686065276a6664"><span class="__cf_email__" data-cfemail="accbc5c0cec9de82c8c9dfc5cbc2eccbc1cdc5c082cfc3c1">[email&#160;protected]</span></a></p>
+<p><a class="email" href="mailto:miraclechibuzo@gmail.com">miraclechibuzo@gmail.com</span></a></p>
 </div>
 </div>
 <div class="col-xl-6 offset-xl-2">
